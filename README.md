@@ -12,8 +12,7 @@
 - 🛡️ 2026 年开始正式步入网络安全领域
 - 🔎 持续学习渗透测试、安全研究与安全开发
 - 🧭 当前阶段：大三到大四
-- 📌 <!-- 待补充：个人方向 / 学校 / 其他主页中间字段 -->
-
+<!-- 待补充：个人主页中间字段 -->`r`n
 ### 📝 我的博客
 
 [**远山Sec · 网络安全个人博客**](https://yx-sec.github.io/) — 记录学习笔记、实践复盘与成长思考。
@@ -26,3 +25,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yx-Sec&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="主页访问量" />
 </div>
+
