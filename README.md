@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-welcome.svg" alt="欢迎访问 远山Sec 的主页；路虽远，行则将至，事虽难，做则必成。" width="720" />
+  <img src="./assets/profile-welcome.svg" alt="欢迎访问 远山Sec 的主页；道阻且长，行则将至；行而不辍，未来可期。" width="720" />
 
   <br />
 
