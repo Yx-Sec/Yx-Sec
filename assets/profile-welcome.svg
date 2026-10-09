@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="146" viewBox="0 0 720 146" role="img" aria-labelledby="title description">
-  <title id="title">欢迎访问 远山Sec 的主页</title>
-  <desc id="description">道阻且长，行则将至；行而不辍，未来可期。</desc>
-  <rect width="720" height="146" fill="transparent" />
-  <g fill="#58A6FF" text-anchor="middle">
-    <text x="360" y="54" font-family="KaiTi, STKaiti, FangSong, serif" font-size="33" letter-spacing="1">欢迎访问 <tspan font-family="Fira Code, Consolas, monospace" font-size="34" font-weight="700" letter-spacing="0">远山Sec</tspan> 的</text>
-    <text x="360" y="111" font-family="KaiTi, STKaiti, FangSong, serif" font-size="22" letter-spacing="1" fill="#E6EDF3">道阻且长，行则将至；行而不辍，未来可期。</text>
-  </g>
-</svg>

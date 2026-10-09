@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="./assets/profile-welcome.svg" alt="欢迎访问 远山Sec 的主页；道阻且长，行则将至；行而不辍，未来可期。" width="720" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=64&lines=%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE+%E8%BF%9C%E5%B1%B1Sec+%E7%9A%84%E4%B8%BB%E9%A1%B5" alt="动态欢迎语：欢迎访问 远山Sec 的主页" width="720" />
+
+  <br />
+
+  <img src="./assets/profile-motto.svg" alt="道阻且长，行则将至；行而不辍，未来可期。" width="720" />
 
   <br />
 
