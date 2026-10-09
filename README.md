@@ -1,8 +1,23 @@
 <div align="center">
-  <img src="https://yx-sec.github.io/assets/xiaoxiansec-avatar.jpg" width="118" alt="远山Sec 的头像" />
-  <h1>远山Sec</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=54&lines=你好，欢迎来到远山Sec的主页;记录网络安全学习与实践;Keep+learning%2C+keep+growing" alt="动态欢迎语" />
-  <p>从基础出发，在学习、实践与复盘中持续成长。</p>
+
+  <img src="./assets/profile-welcome.svg" alt="欢迎访问 远山Sec 的主页；路虽远，行则将至，事虽难，做则必成。" width="720" />
+
+  <br />
+
+  <a href="https://yx-sec.github.io/">
+    <img src="https://img.shields.io/badge/📝%20博客-yx--sec.github.io-58A6FF?style=for-the-badge" alt="博客 yx-sec.github.io" />
+  </a>
+  <a href="https://github.com/Yx-Sec">
+    <img src="https://img.shields.io/badge/GitHub-Yx--Sec-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Yx-Sec" />
+  </a>
+  <a href="mailto:ys_sec@163.com">
+    <img src="https://img.shields.io/badge/邮箱-ys__sec%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱 ys_sec@163.com" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=Yx-Sec&label=VISITORS&color=58A6FF&style=for-the-badge" alt="主页访问量" />
+
 </div>
 
 ---
@@ -22,7 +37,3 @@
 
 - 邮箱：**ys_sec@163.com**
 - 博客：[yx-sec.github.io](https://yx-sec.github.io/)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yx-Sec&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="主页访问量" />
-</div>
