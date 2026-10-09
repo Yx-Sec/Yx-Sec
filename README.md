@@ -4,7 +4,7 @@
 
   <br />
 
-  <img src="./assets/profile-motto.svg" alt="道阻且长，行则将至；行而不辍，未来可期。" width="720" />
+  <img src="./assets/profile-motto.svg" alt="无人扶我青云志，我自踏雪至山巅。" width="720" />
 
   <br />
 
