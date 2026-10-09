@@ -4,7 +4,7 @@
 
   <br />
 
-  <img src="./assets/profile-motto.svg" alt="无人扶我青云志，我自踏雪至山巅。" width="720" />
+  <img src="./assets/profile-motto-v2.svg" alt="无人扶我青云志，我自踏雪至山巅。" width="720" />
 
   <br />
 
